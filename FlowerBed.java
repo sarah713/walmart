@@ -13,6 +13,6 @@ public class FlowerBed {
                 }
             }
         }
-        return false;
+        return true;
     }
 }
