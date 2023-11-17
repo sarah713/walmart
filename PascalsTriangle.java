@@ -1,5 +1,3 @@
-package walmart;
-
 import java.util.ArrayList;
 import java.util.List;
 
